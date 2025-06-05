@@ -9,7 +9,7 @@ This dataset contains 41,188 observations grouped over 21 variables of categoric
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/d8fd5227-3525-43b6-82af-fdd9d14963e3" />
 
-The sample exhibits a median age of 38 years old, with a majority of subjects (26588) classified as "adult" (ages 26-44). Most subjects are married (24,928), work in administrative roles (10,422), and hold university degrees (12,168). Additionally, most have credit in default (32,588), a housing loan (21,576), and a personal loan (33,950). A distribution of age and job type is provided in the figure below.
+The sample exhibits a median age of 38 years old, with a majority of subjects (26,588) classified as "adult" (ages 26-44). Most subjects are married (24,928), work in administrative roles (10,422), and hold university degrees (12,168). Additionally, most have credit in default (32,588), a housing loan (21,576), and a personal loan (33,950). A distribution of age and job type is provided in the figure below.
 
 <img width="432" alt="image" src="https://github.com/user-attachments/assets/a3e5072c-67c8-4f1a-885c-a342630c2ad8" />
 

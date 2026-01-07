@@ -20,19 +20,19 @@ It was determined that single most important determinant of whether or not the m
 
 
 ## Insights and Recommendations
-Based on the results of the model, the folllowing five actions are recommended as follows:
+Based on the results of the model, the following five actions are recommended as follows:
 
-**Insight #1: Call Duration Is the Strongest Predictor**
+**Insight #1: Call Duration Is the Strongest Predictor**  
 Longer calls are strongly associated with positive responses. One caveat with this predictor is that, since duration is only known post-call, it's not useful for targeting before contact. Nonetheless, it’s a strong indicator of lead interest. If the goal of the bank's marketing team is selecting leads, another model could be trained without including "duration" as a variable. Otherwise, the primary recommendation is to use duration for post-call scoring---that is, if a lead stays on longer, prioritize for follow-up.
 
-**Insight #2: Macroeconomic Indicators Strongly Influence Outcomes**
+**Insight #2: Macroeconomic Indicators Strongly Influence Outcomes**   
 Customers respond better during favorable economic periods (e.g., low unemployment, high consumer confidence). In light of this finding, the marketing team should time campaigns during periods of economic optimism. Additionally, it may be opportune to align offers or messaging to current macroeconomic trends (e.g., “Now is the best time to invest/save...” during low interest rate periods).
 
-**Insight #3: Contact Strategy Matters**
+**Insight #3: Contact Strategy Matters**  
 The communication channel and month of contact were found to influence conversion rates. Further investigation into home telephone versus cellular phone superiority in converting sales should be executed. Further, the team should analyze performance by month to find seasonal peaks and run campaigns during those months.
 
-**Insight #4: Past Campaign Response (poutcome_code) Is Predictive**
+**Insight #4: Past Campaign Response (poutcome_code) Is Predictive**  
 Clients who responded positively in the past are more likely to do so again. The team could use the "poutcome" variable to create a "hot lead" segment. Then, through this effort, the team can prioritize follow-up with those who previously subscribed or engaged.
 
-**Insight #5: Client Profile Variables Have Modest But Notable Impact**
+**Insight #5: Client Profile Variables Have Modest But Notable Impact**  
 While variables like occupation, education level, marital status, and having a house loan were weaker, they are still informative. One insight to glean from this finding is that certain demographics may respond more positively. Further efforts to, for instance, build customer profiles via customer segmentation methods could aid targeting or personalized messaging (e.g., the marketing team could tailor investment product messaging differently to students vs. retirees).
